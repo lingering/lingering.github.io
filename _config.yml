@@ -1,6 +1,6 @@
 # Site settings
 title: The ZEn OF SeCuriTy-Read Write Pwn
-SEOTitle: 王发星的博客 | The ZEn OF SeCuriTy-Read Write Pwn
+SEOTitle: 王发星的博客 | The ZEn OF SeCuriTy
 header-img: img/post-bg-desk.jpg
 email: lingerwan123@gmail.com
 description: "The War Doomed To Lost"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/lingering/lingering.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Read Write Pwn"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/dog.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: f67b5952139db4957e9e                            #生成的clientID
+  clientSecret: a72c7447ff90a0a799c9cbdb36b34f8cc0437c37    #生成的clientSecret
   repo: lingering.github.io    #仓库名称
   owner: lingering    #github用户名
   admin: lingering
