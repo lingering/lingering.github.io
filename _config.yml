@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "ohlinge",
+        href: "https://www.ohlinge.cn/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Kaumi",
+        href: "https://kamui741.github.io/"
     }
 ]
