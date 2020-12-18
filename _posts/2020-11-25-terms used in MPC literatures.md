@@ -37,9 +37,11 @@ Except for the behavior of the adversary, the security of a protocol can be diff
 
 What we discussed above we mentioned the corrupted parties, as it is clear that we overlooked a key factor when describing adversary which is the amount of the adversary. It's a vital parameter that not only impacts the security achieved in the protocol but also the whole performance of the MPC system.  Usually, when designing a protocol against malicious participants we care about the bound of adversaries that a protocol tolerates.
 Let t denotes the number of adversaries and n is the total number of parties
+
 * Honest majority means t<n/2
 * Dishonest majority usually means t>=n/2, sometimes up to n-1
 * In special case(two-party computation), No majority
+
 ### Communication Model
     * point-to-point channel: there are secure/private channels between each pair of parties.
     * broadcast channel: an authenticate channel which can be used as a broadcast by every party.
