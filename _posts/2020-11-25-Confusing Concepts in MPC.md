@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      concepts in MPC literatures
-subtitle:   some key words in MPC protocol
+title:      Confusing Concepts in MPC
+subtitle:   some key words used in MPC protocols
 date:       2020-09-14
 author:     Faxing Wang
 header-img: img/kisspng-hedge-maze-labyrinth-puzzle-mural-5adfcb35c56c91.7130978515246159898087.png
